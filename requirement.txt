@@ -1,4 +1,0 @@
-speechrecognition
-pyttsx3
-pyaudio
-rospy
